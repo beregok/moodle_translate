@@ -1,2 +1,4 @@
 # moodle_translate
-modules and plagin
+modules and plugin
+LMS Moodle
+www.moodle.org
